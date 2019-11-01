@@ -1,0 +1,1 @@
+[Algo Book Ch 10](http://algorithms.dojo.news/static/Algorithms/index.html#LinkTarget_2133)
